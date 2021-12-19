@@ -1,5 +1,25 @@
 ![téléchargement](https://user-images.githubusercontent.com/96391221/146688592-d36925a3-35d8-4e78-875a-d4968a4e32e6.png)
 
+## main.cpp
+```cpp
+#include "mainwindow.h"
+
+#include <QApplication>
+
+int main(int argc, char *argv[])
+{
+    QApplication a(argc, argv);
+    MainWindow w;
+    w.show();
+    return a.exec();
+}
+
+
+
+
+
+```
+
 
 ## mainwindow.cpp
 ```cpp
@@ -158,3 +178,6 @@ private:
 #endif // MAINWINDOW_H
 
 ```
+## mainwindow.ui
+
+![Capture d’écran 2021-12-19 210606](https://user-images.githubusercontent.com/96391221/146689316-ba54a9a4-ad59-4cf1-8e8e-030dda5e4938.png)
