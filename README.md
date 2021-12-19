@@ -181,6 +181,8 @@ private:
 ## mainwindow.ui
 
 ![Capture d’écran 2021-12-19 210606](https://user-images.githubusercontent.com/96391221/146689316-ba54a9a4-ad59-4cf1-8e8e-030dda5e4938.png)
+
+* * *
 Enfin on a la resultat suivantes
 
 
