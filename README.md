@@ -115,3 +115,4 @@ void MainWindow::on_actionpaste_triggered()
 
 
 ```
+## mainwindow.h
