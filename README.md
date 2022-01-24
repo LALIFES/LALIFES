@@ -323,4 +323,9 @@ bool remTache::isChecked() const{
     return false;
 }
 
+
 ```
+## <span style="color:red">Result :</span>
+![image](https://user-images.githubusercontent.com/96391221/150849777-92748c6f-2725-4844-87ac-016f49cf3ce2.png)
+
+
